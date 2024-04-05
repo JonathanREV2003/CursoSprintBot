@@ -5,3 +5,4 @@ Evidencia:
 
 ![image](https://github.com/JonathanREV2003/CursoSprintBot/assets/99297546/28338973-771a-4f51-938c-33579721d1c2)
 
+https://spring.academy/courses/building-a-rest-api-with-spring-boot
